@@ -1,3 +1,6 @@
+Orignally posted on my blog [jagekod.github.io](https:/jagekod.github.io/2025/09/02/Bayesian-auction.html)
+
+
 **Bayesian inference for bidding on auctions**
 
 I built a simple Bayesian model for estimating a fair price when bidding on auctions so I don't overpay for an item. I will not dwell deeper in to the beautiful world of *Bayesian statistics* here, I refer you to Ben Lambert's excellent book *"A Student's Guide to Bayesian Statistics"* for that.
